@@ -8,4 +8,4 @@ Also I used this tool: https://griddy.io/ cause it's my first time to use the gr
 This is the preview I made:
 ![](FinishedPreview.png)
 
-Live: 
+Live: https://zer0fr0st93.github.io/Singe-Price-Grid/
