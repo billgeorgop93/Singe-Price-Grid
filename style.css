@@ -16,7 +16,10 @@
 
 body {
   background-color: var(--light-gray);
-  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
 
 .content {
@@ -99,6 +102,7 @@ a {
 a:hover {
   background-color: #fff;
   color: var(--bright-yellow);
+  transition: all 0.2s;
 }
 
 /*third card style */
